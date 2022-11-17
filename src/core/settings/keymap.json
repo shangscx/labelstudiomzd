@@ -1,0 +1,105 @@
+{
+  "audio:back": {
+    "key": "ctrl+b",
+    "mac": "command+b",
+    "description": "Back for one second"
+  },
+  "ts:grow-left":{
+    "key": "left",
+    "description": "Increase region to the left"
+  },
+  "ts:grow-right":{
+    "key": "right",
+    "description": "Increase region to the right"
+  },
+  "ts:shrink-left":{
+    "key": "alt+left",
+    "description": "Decrease region on the left"
+  },
+  "ts:shrink-right":{
+    "key": "alt+right",
+    "description": "Decrease region on the right"
+  },
+  "ts:grow-left-largre": {
+    "key": "shift+left"
+  },
+  "ts:grow-right-largre": {
+    "key": "shift+right"
+  },
+  "ts:shrink-left-largre": {
+    "key": "shift+alt+left"
+  },
+  "ts:shrink-right-largre": {
+    "key": "shift+alt+right"
+  },
+  "annotation:submit": {
+    "key": "ctrl+enter",
+    "mac": "command+enter",
+    "description": "提交打标结果"
+  },
+  "annotation:skip": {
+    "key": "ctrl+space",
+    "mac": "alt+enter",
+    "description": "跳过条标任务"
+  },
+  "annotation:undo": {
+    "key": "ctrl+z",
+    "mac": "command+z",
+    "description": "撤销"
+  },
+  "annotation:redo": {
+    "key": "ctrl+shift+z",
+    "mac": "command+shift+z",
+    "description": "重做"
+  },
+  "region:delete-all": {
+    "key": "ctrl+backspace",
+    "mac": "command+backspace",
+    "description": "删除所有区域"
+  },
+  "region:focus": {
+    "key": "enter",
+    "description": "聚焦于第一个区域"
+  },
+  "region:relation": {
+    "key": "alt+r",
+    "description": "在两个区域之间创建关系"
+  },
+  "region:visibility": {
+    "key": "alt+h",
+    "description": "隐藏/显示选择的区域"
+  },
+  "region:unselect": {
+    "key": "u",
+    "description": "取消选择区域"
+  },
+  "region:exit": {
+    "key": "escape",
+    "description": "退出创建区域的模式、取消区域选择"
+  },
+  "region:delete": {
+    "key": "backspace",
+    "description": "删除选择的区域"
+  },
+  "region:cycle": {
+    "key": "alt+.",
+    "description": "在区域之间循环"
+  },
+  "region:duplicate": {
+    "key": "ctrl+d",
+    "mac": "command+d",
+    "description": "复制选择的区域"
+  },
+  "video:playpause": {
+    "key": "alt+space",
+    "description": "停止/播放视频"
+  },
+  "video:frame-backward": {
+    "key": "alt+left",
+    "description": "下一帧"
+  },
+  "video:frame-forward": {
+    "key": "alt+right",
+    "description": "上一帧"
+  }
+}
